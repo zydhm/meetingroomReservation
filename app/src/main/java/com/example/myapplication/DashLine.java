@@ -33,5 +33,6 @@ public class DashLine extends View {
         mPath.moveTo(0, 0);
         mPath.lineTo(0, getHeight());
         canvas.drawPath(mPath, mPaint);
+//test line
     }
 }
