@@ -36,4 +36,5 @@ public class DashLine extends View {
     }
     //卧槽，我的git呢？
     //你的git 在这儿呢。。
+    //我的git 去哪儿了？
 }
