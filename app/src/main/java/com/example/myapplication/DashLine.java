@@ -35,6 +35,6 @@ public class DashLine extends View {
         canvas.drawPath(mPath, mPaint);
     }
     //卧槽，我的git呢？
-    //个臭狗屎了你
+    //yeah个锤锤
     //我的git 去哪儿了？
 }
